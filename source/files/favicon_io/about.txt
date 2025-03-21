@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Buginese
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/notosansbuginese/v18/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf
+- Font License: undefined)
